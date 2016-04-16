@@ -19,7 +19,6 @@
 		BC0980241CB18BB900972684 /* mustache.png in Resources */ = {isa = PBXBuildFile; fileRef = BC09801C1CB18BB900972684 /* mustache.png */; };
 		BC0980251CB18BB900972684 /* princess.png in Resources */ = {isa = PBXBuildFile; fileRef = BC09801D1CB18BB900972684 /* princess.png */; };
 		BC0CB8171CB958A30009A445 /* CreateVideoView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0CB8161CB958A30009A445 /* CreateVideoView.m */; };
-		BC0CB8191CB963C90009A445 /* 30secs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC0CB8181CB963C80009A445 /* 30secs.mp3 */; };
 		BC0CB81C1CB9965E0009A445 /* No-pattern.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0CB81A1CB9965E0009A445 /* No-pattern.png */; };
 		BC0CB81D1CB9965E0009A445 /* suspenders.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0CB81B1CB9965E0009A445 /* suspenders.png */; };
 		BC0CB8241CB99B390009A445 /* DGActivityIndicatorBallScaleRippleMultipleAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0CB8211CB99B390009A445 /* DGActivityIndicatorBallScaleRippleMultipleAnimation.m */; };
@@ -308,7 +307,6 @@
 		BC09801D1CB18BB900972684 /* princess.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = princess.png; sourceTree = "<group>"; };
 		BC0CB8151CB958A20009A445 /* CreateVideoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateVideoView.h; sourceTree = "<group>"; };
 		BC0CB8161CB958A30009A445 /* CreateVideoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateVideoView.m; sourceTree = "<group>"; };
-		BC0CB8181CB963C80009A445 /* 30secs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 30secs.mp3; sourceTree = "<group>"; };
 		BC0CB81A1CB9965E0009A445 /* No-pattern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "No-pattern.png"; sourceTree = "<group>"; };
 		BC0CB81B1CB9965E0009A445 /* suspenders.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = suspenders.png; sourceTree = "<group>"; };
 		BC0CB81F1CB99B390009A445 /* DGActivityIndicatorAnimationProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DGActivityIndicatorAnimationProtocol.h; sourceTree = "<group>"; };
@@ -779,7 +777,6 @@
 		BC95FE131C932A15000A23F7 = {
 			isa = PBXGroup;
 			children = (
-				BC0CB8181CB963C80009A445 /* 30secs.mp3 */,
 				BC9328311CBEB1FF00D7C326 /* music.mp3 */,
 				BCEEC6D41CAC2EF50089A137 /* Localizable.strings */,
 				BC95FE1E1C932A15000A23F7 /* BabySticker */,
@@ -1704,7 +1701,6 @@
 				BCDC5C9C1C949E1800E5789F /* Icon-Small@3x.png in Resources */,
 				BCA7E4C51CB439C400AFDE4B /* bagPattern3.png in Resources */,
 				BCDC5C9D1C949E1800E5789F /* Icon-Spotlight-40.png in Resources */,
-				BC0CB8191CB963C90009A445 /* 30secs.mp3 in Resources */,
 				BCBBF74C1CB6CAE200906D4B /* cakebg.png in Resources */,
 				BCF529341C9546EC0068CC4B /* SettingScreen.xcassets in Resources */,
 				BC0980241CB18BB900972684 /* mustache.png in Resources */,
