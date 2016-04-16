@@ -234,6 +234,10 @@
 		BCDC5CA11C949E1800E5789F /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDC5C941C949E1800E5789F /* Icon@2x.png */; };
 		BCDC5CA21C949E1800E5789F /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = BCDC5C951C949E1800E5789F /* iTunesArtwork */; };
 		BCDC5CA31C949E1800E5789F /* iTunesArtwork@2x in Resources */ = {isa = PBXBuildFile; fileRef = BCDC5C961C949E1800E5789F /* iTunesArtwork@2x */; };
+		BCEB4A941CC241D1006E6BD2 /* IAPHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEB4A8D1CC241D1006E6BD2 /* IAPHelper.m */; };
+		BCEB4A951CC241D1006E6BD2 /* IAPShare.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEB4A8F1CC241D1006E6BD2 /* IAPShare.m */; };
+		BCEB4A961CC241D1006E6BD2 /* NSString+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEB4A911CC241D1006E6BD2 /* NSString+Base64.m */; };
+		BCEB4A971CC241D1006E6BD2 /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEB4A931CC241D1006E6BD2 /* SFHFKeychainUtils.m */; };
 		BCEEC6D21CAC2EF50089A137 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BCEEC6D41CAC2EF50089A137 /* Localizable.strings */; };
 		BCEEC6DF1CAC37920089A137 /* LanguagesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEEC6DE1CAC37920089A137 /* LanguagesViewController.m */; };
 		BCF0EFAA1CAED9230054B215 /* zigzag.png in Resources */ = {isa = PBXBuildFile; fileRef = BCF0EFA81CAED9230054B215 /* zigzag.png */; };
@@ -553,6 +557,14 @@
 		BCDC5C941C949E1800E5789F /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		BCDC5C951C949E1800E5789F /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = "<group>"; };
 		BCDC5C961C949E1800E5789F /* iTunesArtwork@2x */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iTunesArtwork@2x"; sourceTree = "<group>"; };
+		BCEB4A8C1CC241D1006E6BD2 /* IAPHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IAPHelper.h; sourceTree = "<group>"; };
+		BCEB4A8D1CC241D1006E6BD2 /* IAPHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAPHelper.m; sourceTree = "<group>"; };
+		BCEB4A8E1CC241D1006E6BD2 /* IAPShare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IAPShare.h; sourceTree = "<group>"; };
+		BCEB4A8F1CC241D1006E6BD2 /* IAPShare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IAPShare.m; sourceTree = "<group>"; };
+		BCEB4A901CC241D1006E6BD2 /* NSString+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Base64.h"; sourceTree = "<group>"; };
+		BCEB4A911CC241D1006E6BD2 /* NSString+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Base64.m"; sourceTree = "<group>"; };
+		BCEB4A921CC241D1006E6BD2 /* SFHFKeychainUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFHFKeychainUtils.h; sourceTree = "<group>"; };
+		BCEB4A931CC241D1006E6BD2 /* SFHFKeychainUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFHFKeychainUtils.m; sourceTree = "<group>"; };
 		BCEEC6C41CAC2E790089A137 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		BCEEC6C51CAC2E790089A137 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		BCEEC6C61CAC2E820089A137 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
@@ -845,6 +857,7 @@
 		BC95FE551C93335C000A23F7 /* CustomClass */ = {
 			isa = PBXGroup;
 			children = (
+				BCEB4A8B1CC241D1006E6BD2 /* IAPHelper */,
 				BC0CB81E1CB99B390009A445 /* LodingBar */,
 				BC5E1F511C9359EA0025F968 /* Constant.h */,
 				BC1BC9661C972EC500D73BD4 /* UtilityClass.h */,
@@ -1290,6 +1303,21 @@
 				BCDC5C961C949E1800E5789F /* iTunesArtwork@2x */,
 			);
 			path = AppIcons;
+			sourceTree = "<group>";
+		};
+		BCEB4A8B1CC241D1006E6BD2 /* IAPHelper */ = {
+			isa = PBXGroup;
+			children = (
+				BCEB4A8C1CC241D1006E6BD2 /* IAPHelper.h */,
+				BCEB4A8D1CC241D1006E6BD2 /* IAPHelper.m */,
+				BCEB4A8E1CC241D1006E6BD2 /* IAPShare.h */,
+				BCEB4A8F1CC241D1006E6BD2 /* IAPShare.m */,
+				BCEB4A901CC241D1006E6BD2 /* NSString+Base64.h */,
+				BCEB4A911CC241D1006E6BD2 /* NSString+Base64.m */,
+				BCEB4A921CC241D1006E6BD2 /* SFHFKeychainUtils.h */,
+				BCEB4A931CC241D1006E6BD2 /* SFHFKeychainUtils.m */,
+			);
+			path = IAPHelper;
 			sourceTree = "<group>";
 		};
 		BCF0EFA71CAED9120054B215 /* FinalPatterns */ = {
@@ -1773,14 +1801,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC5E1F571C935E8F0025F968 /* HomeScreenViewController.m in Sources */,
+				BCEB4A961CC241D1006E6BD2 /* NSString+Base64.m in Sources */,
 				BCF31B021C9EA09E00EB08FF /* PhotosAndVideoViewController.m in Sources */,
 				BC0CB8241CB99B390009A445 /* DGActivityIndicatorBallScaleRippleMultipleAnimation.m in Sources */,
 				BCEEC6DF1CAC37920089A137 /* LanguagesViewController.m in Sources */,
 				BCA7B1481CBD5C93005E2C39 /* RemindarViewController.m in Sources */,
 				BC0CB8251CB99B390009A445 /* DGActivityIndicatorView.m in Sources */,
 				BC5E1F5D1C935EF60025F968 /* GallaryViewController.m in Sources */,
+				BCEB4A971CC241D1006E6BD2 /* SFHFKeychainUtils.m in Sources */,
+				BCEB4A941CC241D1006E6BD2 /* IAPHelper.m in Sources */,
 				BCA7B1541CBD7CB8005E2C39 /* RadioButton.m in Sources */,
 				BC5E1F631C935F590025F968 /* BeforeStartViewController.m in Sources */,
+				BCEB4A951CC241D1006E6BD2 /* IAPShare.m in Sources */,
 				BCDB7BC91C9D931F00394784 /* ButtonColor.m in Sources */,
 				BC0980141CB17DAC00972684 /* ButtonFont.m in Sources */,
 				BCF529431C957F8F0068CC4B /* FolderCell.m in Sources */,
