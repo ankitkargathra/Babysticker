@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "semana";
+"Keyweeks" = "semanas";
+"Keymonth"="mês";
+"Keymonths" = "meses";
+"Keyshape"="forma";
+"Keypatterns" ="padrões";
+"Keypattern color" ="padrão de cor";
+"Keyforeground color"="cor de primeiro plano";
+"Keybackground color" ="cor de fundo";
+"Keyinside shape"="forma dentro";
+"Keyinner circle color"="cor Inner Circle";
+"Keynumber"="número";
+"Keycustom text"="texto feito sob encomenda";
+"Keyfont styles"="estilos de fonte";
+"Keyaccessories"="acessórios";
+"Keybuy the full version"="comprar a versão completa";
+"Keypreview"="visualização";
+"Keysticker"="adesivo";
+"Keydone"="feito";
+"Keynormal"="normal";
+"Keyhelp"="ajudar";
+"Keyreset"="restabelecer";
+"Keyweekormonth"="Semana ou mês";
+"Keyaccessoriescolor"="Acessórios Cor";
+
+"Keypattern background color" = "cor de fundo padrão";
+"Keynumber color"= "NÚMERO DE CORES";
+"Keylanguages"="IDIOMAS";
+"Keysetting"="CONFIGURAÇÃO";
+"Keyreminder"="LEMBRETE";
+"Keyshare"="COMPARTILHAR";
+"Keycontactus"="NOS CONTATE";
+"Keymoreapps"="MAIS APLICATIVOS";
+"Keyrateus"="NOS AVALIE";
+"Keyfollowus"="SIGA-NOS NO";
+"Keysharephotomessage"="ENVIAR US uma foto de seu bebê se você gostaria de nos para compartilhá-lo no nosso Facebook OU INSTAGRAM";
+"Keyfolders"="PASTAS";
+
+"Keyimages"="IMAGENS";
+"Keyvideo"="VÍDEO";
+"Keystickerbaby"="ETIQUETA MÊS PARA marcos do bebê APP";
+
+"Keysticker"="ETIQUETA";
+"KeyDone"="FEITO";
+"Keypreview"="visualização";
+
+
+
+
+
+

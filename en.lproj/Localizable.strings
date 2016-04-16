@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+"KeyWeek"  = "Week";
+"Keyweeks" = "weeks";
+"Keymonth"="month";
+"Keymonths" = "months";
+"Keyshape"="SHAPE";
+"Keypatterns" ="PATTERNS";
+"Keypattern color" ="PATTERN COLOR";
+"Keyforeground color"="foreground color";
+"Keybackground color" ="background color";
+"Keyinside shape"="INSIDE SHAPE";
+"Keyinner circle color"="INNER CIRCLE COLOR";
+"Keynumber"="NUMBER";
+"Keycustom text"="CUSTOM TEXT";
+"Keyfont styles"="FONT STYLES";
+"Keyaccessories"="ACCESSORIES";
+"Keybuy the full version"="buy the full version";
+"Keypreview"="preview";
+"Keysticker"="sticker";
+"Keydone"="done";
+"Keynormal"="normal";
+"Keyhelp"="help";
+"Keyreset"="reset";
+"Keyweekormonth"="WEEK OR MONTH";
+"Keyaccessoriescolor"="ACCESSORIES COLOR";
+"Keypattern background color" = "PATTERN BACKGROUND COLOR";
+"Keynumber color"= "NUMBER COLOR";
+"Keylanguages"="LANGUAGES";
+"Keysetting"="SETTING";
+"Keyreminder"="REMINDER";
+"Keyshare"="SHARE";
+"Keycontactus"="CONTACT US";
+"Keymoreapps"="MORE APPS";
+"Keyrateus"="RATE US";
+"Keyfollowus"="FOLLOW US ON";
+"Keysharephotomessage"="SEND US A PHOTO OF YOUR BABY IF YOU WOULD LIKE US TO SHARE IT ON OUR FACEBOOK OR INSTAGRAM";
+"Keyfolders"="FOLDERS";
+
+"Keyimages"="IMAGES";
+"Keyvideo"="VIDEO";
+"Keystickerbaby"="MONTH STICKER FOR BABY MILESTONES APP";
+
+"Keysticker"="STICKER";
+"KeyDone"="DONE";
+"Keypreview"="Preview";
+

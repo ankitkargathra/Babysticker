@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "週";
+"Keyweeks" = "週間";
+"Keymonth"="月";
+"Keymonths" = "ヶ月";
+"Keyshape"="形状";
+"Keypatterns" ="パターン";
+"Keypattern color" ="パターンの色";
+"Keyforeground color"="文字表示色";
+"Keybackground color" ="背景色";
+"Keyinside shape"="内部形状";
+"Keyinner circle color"="内側の円の色";
+"Keynumber"="数";
+"Keycustom text"="カスタムテキスト";
+"Keyfont styles"="フォントスタイル";
+"Keyaccessories"="アクセサリー";
+"Keybuy the full version"="フルバージョンを購入";
+"Keypreview"="プレビュー";
+"Keysticker"="ステッカー";
+"Keydone"="終わりました";
+"Keynormal"="ノーマル";
+"Keyhelp"="助けます";
+"Keyreset"="リセット";
+"Keyweekormonth"="週または月";
+"Keyaccessoriescolor"="アクセサリーの色";
+"Keynumber color"= "数色";
+"Keypattern background color" = "パターンの背景色";
+
+"Keylanguages"="言語";
+"Keysetting"="設定";
+"Keyreminder"="リマインダー";
+"Keyshare"="シェア";
+"Keycontactus"="お問い合わせ";
+"Keymoreapps"="より多くのアプリケーション";
+"Keyrateus"="私たちを評価してください";
+"Keyfollowus"="上で私たちに従ってください";
+"Keysharephotomessage"="あなたが私たちのFacebookやInstagramの上で共有するために私達をご希望の場合米国の赤ちゃんの写真を送ります";
+"Keyfolders"="フォルダ";
+
+"Keyimages"="画像";
+"Keyvideo"="ビデオ";
+"Keystickerbaby"="赤ちゃんのマイルストーンアプリの月のステッカー";
+
+
+"Keysticker"="ステッカー";
+"KeyDone"="終わりました";
+"Keypreview"="プレビュー";
+
+

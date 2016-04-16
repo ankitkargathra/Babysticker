@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "Woche";
+"Keyweeks" = "Wochen";
+"Keymonth"="Monat";
+"Keymonths" = "Monate";
+"Keyshape"="Form";
+"Keypatterns" ="Muster";
+"Keypattern color" ="Musterfarbe";
+"Keyforeground color"="Vordergrundfarbe ";
+"Keybackground color" ="Hintergrundfarbe  ";
+"Keyinside shape"="Innenform";
+"Keyinner circle color"="inneren Kreis Farbe";
+"Keynumber"="Anzahl";
+"Keycustom text"="benutzerdefinierten Text";
+"Keyfont styles"="Schriftstile";
+"Keyaccessories"="Zubehör";
+"Keybuy the full version"="kaufen Sie die Vollversion";
+"Keypreview"="Vorschau";
+"Keysticker"="Aufkleber";
+"Keydone"="erledigt";
+"Keynormal"="normal";
+"Keyhelp"="Hilfe";
+"Keyreset"="zurückstellen";
+"Keyweekormonth"="Woche oder Monat";
+"Keyaccessoriescolor"="Zubehör Farb";
+"Keynumber color"= "Anzahl Farbe";
+"Keypattern background color" = "MUSTER-HINTERGRUND-FARBE";
+
+"Keylanguages"="SPRACHEN";
+"Keysetting"="RAHMEN";
+"Keyreminder"="MAHNUNG";
+"Keyshare"="AKTIE";
+"Keycontactus"="KONTAKTIERE UNS";
+"Keymoreapps"="MEHR APPS";
+"Keyrateus"="BEWERTEN SIE UNS";
+"Keyfollowus"="FOLGE UNS AUF";
+"Keysharephotomessage"="SENDEN SIE UNS Foto Ihres Babys Wenn Sie uns, wie es auf unserer Facebook ODER instagram TEILEN";
+"Keyfolders"="FALTBLÄTTER";
+
+"Keyimages"="BILDER";
+"Keyvideo"="VIDEO";
+"Keystickerbaby"="MONATS-Aufkleber für BABY MEILENSTEINE APP";
+
+"Keysticker"="AUFKLEBER";
+"KeyDone"="ERLEDIGT";
+"Keypreview"="Vorschau";
+
+

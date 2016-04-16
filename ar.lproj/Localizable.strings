@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "أسبوع";
+"Keyweeks" = "أسابيع";
+"Keymonth"="شهر";
+"Keymonths" = "أشهر";
+"Keyshape"="شكل";
+"Keypatterns" ="أنماط";
+"Keypattern color" ="اللون نمط";
+"Keyforeground color"="اللون الأمامي";
+"Keybackground color" ="لون الخلفية";
+"Keyinside shape"="الشكل الداخلي";
+"Keyinner circle color"="الداخلية لون الدائرة";
+"Keynumber"="عدد";
+"Keycustom text"="نص مخصص";
+"Keyfont styles"="أنماط الخطوط";
+"Keyaccessories"="إكسسوارات";
+"Keybuy the full version"="شراء النسخة الكاملة";
+"Keypreview"="المعاينة";
+"Keysticker"="لاصقة";
+"Keydone"="القيام به";
+"Keynormal"="طبيعي";
+"Keyhelp"="مساعدة";
+"Keyreset"="إعادة تعيين";
+"Keyweekormonth"="الأسبوع أو الشهر";
+"Keyaccessoriescolor"="الاكسسوارات اللون";
+"Keynumber color"= "عدد الألوان";
+"Keypattern background color" = "لون نمط الخلفية";
+
+"Keylanguages"="اللغات";
+"Keysetting"="ضبط";
+"Keyreminder"="تذكير";
+"Keyshare"="شارك";
+"Keycontactus"="اتصل بنا";
+"Keymoreapps"="تطبيقات أكثر";
+"Keyrateus"="قيمنا";
+"Keyfollowus"="اتبعنا";
+"Keysharephotomessage"="إرسال صورة من طفلك بنا إذا كنت تريد منا أن مشاركتها على الفيسبوك لدينا أو الانستقرام";
+"Keyfolders"="المجلدات";
+
+"Keyimages"="الصور";
+"Keyvideo"="فيديو";
+"Keystickerbaby"="لاصق شهر لبرنامج إنجازات متميزة الطفل";
+
+"Keysticker"="لاصق";
+"KeyDone"="فعله";
+"Keypreview"="معاينة";
+
+
+
+
+

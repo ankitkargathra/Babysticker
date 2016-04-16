@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "semana";
+"Keyweeks" = "semanas";
+"Keymonth"="mes";
+"Keymonths" = "meses";
+"Keyshape"="forma";
+"Keypatterns" ="patrones";
+"Keypattern color" ="color del patrón";
+"Keyforeground color"="color de primer plano";
+"Keybackground color" ="color de fondo";
+"Keyinside shape"="forma en el interior";
+"Keyinner circle color"="círculo color interno";
+"Keynumber"="número";
+"Keycustom text"="el texto de encargo";
+"Keyfont styles"="estilos de fuente";
+"Keyaccessories"="accesorios";
+"Keybuy the full version"="comprar la versión completa";
+"Keypreview"="preestreno";
+"Keysticker"="etiqueta engomada";
+"Keydone"="hecho";
+"Keynormal"="normal";
+"Keyhelp"="ayudar";
+"Keyreset"="reajustar";
+"Keyweekormonth"="Semana o mes";
+"Keyaccessoriescolor"="Accesorios de color";
+"Keynumber color"= "NÚMERO DE COLOR";
+"Keypattern background color" = "COLOR FONDO DEL MODELO";
+
+"Keylanguages"="IDIOMAS";
+"Keysetting"="AJUSTE";
+"Keyreminder"="RECORDATORIO";
+"Keyshare"="COMPARTIR";
+"Keycontactus"="CONTÁCTENOS";
+"Keymoreapps"="MÁS APLICACIONES";
+"Keyrateus"="TASA DE EE.UU.";
+"Keyfollowus"="SIGA CON NOSOTROS";
+"Keysharephotomessage"="Envíanos una foto de su bebé si usted le gustaría compartirlo en nuestro Facebook o Instagram";
+"Keyfolders"="CARPETAS";
+
+"Keyimages"="IMÁGENES";
+"Keyvideo"="VÍDEO";
+"Keystickerbaby"="ETIQUETA DE MES DE HITOS DEL BEBÉ APP";
+"Keysticker"="PEGATINA";
+"KeyDone"="HECHO";
+"Keypreview"="Avance";
+

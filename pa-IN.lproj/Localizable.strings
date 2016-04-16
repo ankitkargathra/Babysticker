@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+"KeyWeek" = "ਹਫ਼ਤਾ";
+"Keyweeks" = "ਹਫ਼ਤੇ";
+"Keymonth" = "ਮਹੀਨੇ";
+"Keymonths" = "ਮਹੀਨੇ";
+"Keyshape" = "ਸ਼ਕਲ";
+"Keypatterns" = "ਪੈਟਰਨ";
+"Keypattern color" ="ਪੈਟਰਨ ਦੇ ਰੰਗ";
+"Keyforeground color"= "ਅਗਲੇ ਰੰਗ";
+"Keybackground color" = "ਪਿੱਠਭੂਮੀ ਦਾ ਰੰਗ";
+"Keyinside shape"="ਦੇ ਰੂਪ ਅੰਦਰ";
+"Keyinner circle color"="ਅੰਦਰੂਨੀ ਸਰਕਲ ਰੰਗ";
+"Keycustom text"="ਕੁੰਜੀ ਕਸਟਮ ਟੈਕਸਟ ਨੂੰ";
+"Keyfont styles"="ਕੁੰਜੀ Font ਸਟਾਈਲ";
+"Keyaccessories"="ਉਪਕਰਣ";
+"Keybuy the full version"="ਪੂਰੀ ਵਰਜਨ ਨੂੰ ਖਰੀਦਣ";
+"Keynumber"="ਨੰਬਰ";
+"Keypreview"="ਝਲਕ";
+"Keysticker"="ਸਟੀਕਰ";
+"Keydone"="ਕੀਤਾ";
+"Keynormal"="ਆਮ";
+"Keyhelp"="ਮਦਦ ਕਰੋ";
+"Keyreset"="ਰੀਸੈਟ";
+"Keyweekormonth" = "ਹਫਤੇ ਜ ਮਹੀਨਾ";
+"Keyaccessoriescolor"="ਸਹਾਇਕ ਰੰਗ";
+"Keypattern background color" = "ਪਈਓ ਦੀ ਪਿੱਠਭੂਮੀ ਦਾ ਰੰਗ";
+"Keynumber color"= "ਨੰਬਰ ਰੰਗ";
+"Keylanguages"="ਭਾਸ਼ਾ";
+"Keysetting"="ਸਥਾਪਨਾ";
+"Keyreminder"="ਯਾਦ";
+"Keyshare"="ਸ਼ੇਅਰ";
+"Keycontactus"="ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ";
+"Keymoreapps"="ਹੋਰ ਐਪਲੀਕੇਸ਼";
+"Keyrateus"="ਰੇਟ ਅਮਰੀਕਾ ਦੇ";
+"Keyfollowus"="ਸਾਡੇ 'ਤੇ ਪਾਲਣ";
+"Keysharephotomessage"="ਅਮਰੀਕਾ ਦੇ ਆਪਣੇ ਬੱਚੇ ਦੀ ਇੱਕ ਫੋਟੋ ਭੇਜੋ ਜੇ ਤੁਹਾਨੂੰ ਸਾਡੇ ਵਰਗੇ ਦਿਓਗੇ ਸਾਡੇ ਫੇਸਬੁੱਕ ਜ Instagram 'ਤੇ ਇਸ ਨੂੰ ਸ਼ੇਅਰ ਕਰਨ ਲਈ";
+"Keyfolders"="ਫੋਲਡਰ ਨੂੰ";
+"Keyimages"="ਚਿੱਤਰ";
+"Keyvideo"="ਵੀਡੀਓ";
+"Keystickerbaby"= "ਬੱਚੇ ਨੂੰ ਮੀਲਪੱਥਰ ਐਪ ਲਈ ਮਹੀਨਾ ਸਟਿੱਕਰ";
+"Keysticker"="ਸਟੀਕਰ";
+"KeyDone"="ਸੰਪੰਨ";
+"Keypreview"="ਜਾਣਕਾਰੀ ਦੇ";
+
+
+
+
+
+
+
+

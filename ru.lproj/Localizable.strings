@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "неделя";
+"Keyweeks" = "недель";
+"Keymonth"="месяц";
+"Keymonths" = "месяцы";
+"Keyshape"="форма";
+"Keypatterns" ="узоры";
+"Keypattern color" ="образец цвета";
+"Keyforeground color"="цвет переднего плана";
+"Keybackground color" ="цвет фона";
+"Keyinside shape"="внутри формы";
+"Keyinner circle color"="внутренний цвет круг";
+"Keynumber"="номер";
+"Keycustom text"="произвольный текст";
+"Keyfont styles"="стили шрифтов";
+"Keyaccessories"="аксессуары";
+"Keybuy the full version"="купить полную версию";
+"Keypreview"="предварительный просмотр";
+"Keysticker"="наклейка";
+"Keydone"="сделано";
+"Keynormal"="нормальный";
+"Keyhelp"="помощь";
+"Keyreset"="сброс";
+"Keyweekormonth"="Неделя или Месяц";
+"Keyaccessoriescolor"="Принадлежности Цвет";
+"Keynumber color"= "номер цвета";
+"Keypattern background color" = "КАРТИНЫ ЦВЕТ ФОНА";
+
+"Keylanguages"="ЯЗЫКИ";
+"Keysetting"="УСТАНОВКА";
+"Keyreminder"="НАПОМИНАНИЕ";
+"Keyshare"="ДОЛЯ";
+"Keycontactus"="СВЯЖИТЕСЬ С НАМИ";
+"Keymoreapps"="БОЛЬШЕ ПРИЛОЖЕНИЙ";
+"Keyrateus"="ОЦЕНИТЕ НАС";
+"Keyfollowus"="ПОДПИШИТЕСЬ НА НАС В";
+"Keysharephotomessage"="SEND США фото вашего ребенка, если вы хотите, чтобы поделиться им НА НАШЕМ FACEBOOK ИЛИ Instagram";
+"Keyfolders"="СКОРОСШИВАТЕЛИ";
+
+"Keyimages"="ИЗОБРАЖЕНИЙ";
+"Keyvideo"="ВИДЕО";
+"Keystickerbaby"="МЕСЯЦ СТИКЕР ДЛЯ МАЛЫШЕЙ ВЕХИ APP";
+
+"Keysticker"="СТИКЕР";
+"KeyDone"="СДЕЛАННЫЙ";
+"Keypreview"="предварительный просмотр";

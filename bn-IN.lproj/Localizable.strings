@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+"KeyWeek"  = "সপ্তাহ";
+"Keyweeks" = "সপ্তাহ";
+"Keymonth"="মাস";
+"Keymonths" = "মাস";
+"Keyshape"="আকৃতি";
+"Keypatterns" ="নিদর্শন";
+"Keypattern color" ="প্যাটার্ন রঙ";
+"Keyforeground color"="পুরোভূমি রং";
+"Keybackground color" ="পেছনের রং";
+"Keyinside shape"="ভিতরে আকৃতি";
+"Keyinner circle color"="ভেতরের বৃত্তের রং";
+"Keynumber"="সংখ্যা";
+"Keycustom text"="কাস্টম টেক্সট";
+"Keyfont styles"="ফন্ট শৈলী";
+"Keyaccessories"="জিনিসপত্র";
+"Keybuy the full version"="পূর্ণ সংস্করণ কিনতে";
+"Keypreview"="প্রিভিউ";
+"Keysticker"="স্টিকার";
+"Keydone"="সম্পন্ন";
+"Keynormal"="সাধারণ";
+"Keyhelp"="সাহায্য";
+"Keyreset"="রিসেট";
+"Keyweekormonth"="সপ্তাহ অথবা মাসের";
+"Keyaccessoriescolor"="আনুষঙ্গিক জিনিসপত্র রঙ";
+"Keypattern background color" = "দৃষ্টান্ত পটভূমির রঙ";
+"Keynumber color"= "সংখ্যা রঙ";
+"Keylanguages"="ভাষা";
+"Keysetting"="বিন্যাস";
+"Keyreminder"="অনুস্মারক";
+"Keyshare"="ভাগ";
+"Keycontactus"="আমাদের সাথে যোগাযোগ করুন";
+"Keymoreapps"="MORE APPS";
+"Keyrateus"="আমাদের ব্যাপারে আপনার মতামত দিন";
+"Keyfollowus"="আমাদেরকে অনুসরণ করুন";
+"Keysharephotomessage"="মার্কিন আপনার বাচ্চার একটা ছবি পাঠাতে যদি আপনি আমাদেরকে চায়, তারা আমাদের ফেসবুক বা Instagram উপর এটি ভাগ করতে";
+"Keyfolders"="ফোল্ডার";
+"Keyimages"="চিত্র";
+"Keyvideo"="ভিডিও";
+"Keystickerbaby"="শিশুর মাইলস্টোন অ্যাপ্লিকেশন জন্য মাসের সটিকার";
+"Keysticker"="স্টিকার";
+"KeyDone"="সম্পন্ন";
+"Keypreview"="প্রিভিউ";
+
+
+
+
+
+
+
+

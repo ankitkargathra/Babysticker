@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+"KeyWeek"  = "सप्ताह";
+"Keyweeks" = "सप्ताह";
+"Keymonth"="महीना";
+"Keymonths" = "महीने";
+"Keyshape"="आकार";
+"Keypatterns" ="पैटर्न";
+"Keypattern color" ="पैटर्न रंग";
+"Keyforeground color"="अग्रभूमि रंग";
+"Keybackground color" ="पृष्ठभूमि रंग";
+"Keyinside shape"="अंदर आकार";
+"Keyinner circle color"="इनर सर्कल के रंग";
+"Keynumber"="संख्या";
+"Keycustom text"="कस्टम पाठ";
+"Keyfont styles"="फ़ॉन्ट शैली";
+"Keyaccessories"="सामान";
+"Keybuy the full version"="पूर्ण संस्करण को खरीदने";
+"Keypreview"="पूर्वावलोकन";
+"Keysticker"="कँटिया";
+"Keydone"="किया";
+"Keynormal"="साधारण";
+"Keyhelp"="मदद";
+"Keyreset"="रीसेट";
+
+"Keyweekormonth"="सप्ताह या महीने";
+"Keyaccessoriescolor"="सहायक रंग";
+"Keypattern background color" = "पैटर्न पृष्ठभूमि रंग";
+"Keynumber color"= "संख्या रंग";
+"Keylanguages"="भाषाओं";
+"Keysetting"="सेटिंग";
+"Keyreminder"="अनुस्मारक";
+"Keyshare"="शेयर";
+"Keycontactus"="हमसे संपर्क करें";
+"Keymoreapps"="और ऐप";
+"Keyrateus"="हमें रेटिंग दें";
+"Keyfollowus"="हमारा अनुसरण इस पर कीजिये";
+"Keysharephotomessage"="अपने बच्चे की एक तस्वीर भेज अगर आप हमें चाहते हैं, हमारे फेसबुक या इंस्टाग्राम पर इसे साझा करना";
+"Keyfolders"="फ़ोल्डर";
+"Keyimages"="इमेजिस";
+"Keyvideo"="वीडियो";
+"Keystickerbaby"="बेबी मील के पत्थर एपीपी के लिए इस माह स्टीकर";
+"Keysticker"="स्टीकर";
+"KeyDone"="किया हुआ";
+"Keypreview"="पूर्वावलोकन";
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  BabySticker
+
+  Created by Ankit on 30/03/16.
+  Copyright © 2016 Ankit. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ BabySticker
+ 
+ Created by Ankit on 30/03/16.
+ Copyright © 2016 Ankit. All rights reserved.
+ */
+
+
+"KeyWeek"  = "semaine";
+"Keyweeks" = "semaines";
+"Keymonth"="mois";
+"Keymonths" = "mois";
+"Keyshape"="forme";
+"Keypatterns" ="motifs";
+"Keypattern color" ="couleur de motif";
+"Keyforeground color"="couleur de premier plan";
+"Keybackground color" ="couleur de fond";
+"Keyinside shape"="forme à l'intérieur";
+"Keyinner circle color"="cercle couleur intérieure";
+"Keynumber"="nombre";
+"Keycustom text"="texte personnalisé";
+"Keyfont styles"="les styles de police";
+"Keyaccessories"="accessoires";
+"Keybuy the full version"="acheter la version complète";
+"Keypreview"="avant-première";
+"Keysticker"="autocollant";
+"Keydone"="fini";
+"Keynormal"="normal";
+"Keyhelp"="aider";
+"Keyreset"="remettre";
+"Keyweekormonth"="Semaine ou Mois";
+"Keyaccessoriescolor"="Accessoires Couleur";
+"Keynumber color"= "NOMBRE DE COULEUR";
+"Keypattern background color" = "MOTIF COULEUR DE FOND";
+
+
+"Keylanguages"="LANGUES";
+"Keysetting"="RÉGLAGE";
+"Keyreminder"="RAPPEL";
+"Keyshare"="PARTAGER";
+"Keycontactus"="CONTACTEZ NOUS";
+"Keymoreapps"="PLUS D'APPLICATIONS";
+"Keyrateus"="ÉVALUEZ NOUS";
+"Keyfollowus"="SUIVEZ-NOUS SUR";
+"Keysharephotomessage"="NOUS ENVOYER UNE PHOTO DE VOTRE BÉBÉ SI VOUS voudriez que nous PARTAGER SUR NOTRE FACEBOOK OU INSTAGRAM";
+"Keyfolders"="DOSSIERS";
+
+"Keyimages"="IMAGES";
+"Keyvideo"="VIDÉO";
+"Keystickerbaby"="AUTOCOLLANT MOIS POUR BÉBÉ ÉTAPES APP";
+
+"Keysticker"="AUTOCOLLANT";
+"KeyDone"="TERMINÉ";
+"Keypreview"="Aperçu";
+
